@@ -2,7 +2,7 @@
 
 - [视角](#视角)
 - [Vue 系列](#Vue是如何工作的系列)
-- [Webpack 系列]（#webpack 工作系列）
+- [Webpack 系列](#Webpack工作的系列)
 
 <a name="视角"></a>
 
