@@ -10,3 +10,4 @@
 #### Vue 系列
 
 1. [你不知道的 v-html 指令用法](https://github.com/1019483075/lingxi/issues/1)
+1. [vuex 理解](https://github.com/1019483075/lingxi/issues/2)
