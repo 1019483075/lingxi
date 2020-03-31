@@ -4,6 +4,7 @@
 - [Vue 系列](#Vue是如何工作的系列)
 - [Webpack 系列](#Webpack工作的系列)
 - [Mock 系列](#mock运用)
+- [版本管理](#版本管理)
   <a name="视角"></a>
 
 #### 视角
@@ -40,3 +41,7 @@
 #### Mock 系列
 
 1. [mockjs 运用](https://github.com/1019483075/lingxi/issues/24)
+
+#### 版本管理
+
+1. [git 命令操作集合](https://github.com/1019483075/lingxi/issues/25)
