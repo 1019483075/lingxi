@@ -59,4 +59,4 @@
 
 #### UI 设计
 
-1. [UI 设计]()
+1. [换肤的六种方案，请收下](https://github.com/1019483075/lingxi/issues/26)
