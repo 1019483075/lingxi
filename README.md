@@ -55,7 +55,7 @@
 
 #### UI 设计
 
-1. [换肤的 N 种方案，请收下](https://github.com/1019483075/lingxi/issues/26)
+1. [前端换肤的 N 种方案，请收下](https://github.com/1019483075/lingxi/issues/26)
 
 #### 数据结构
 
