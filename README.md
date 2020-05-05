@@ -64,3 +64,4 @@
 #### js 基础系列
 
 1. [数组去重](https://github.com/1019483075/lingxi/issues/27)
+1. [数组操作大全（含 ES6 方法）](https://github.com/1019483075/lingxi/issues/29)
