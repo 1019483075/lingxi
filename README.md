@@ -10,6 +10,7 @@
 - [数据结构](#数据结构)
 - [网络](#网络)
 - [js 基础系列](#js系列)
+- [TypeScript 系列](#TypeScript系列)
   <a name="视角"></a>
 
 #### Vue 系列
@@ -65,3 +66,7 @@
 
 1. [数组去重](https://github.com/1019483075/lingxi/issues/27)
 1. [数组操作大全（含 ES6 方法）](https://github.com/1019483075/lingxi/issues/29)
+
+#### TypeScript 系列
+
+1. [TypeScript-基础篇]()
