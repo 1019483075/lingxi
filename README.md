@@ -52,7 +52,7 @@
 
 #### 工具
 
-1. 聊聊 whistle()
+1. 聊聊 whistle
 
 #### CSS 系列
 
@@ -69,4 +69,6 @@
 
 #### TypeScript 系列
 
-1. [TypeScript-基础篇]()
+1. TypeScript-基础篇
+2. TypeScript-实战篇
+3. TypeScript-进阶
